@@ -1,3 +1,3 @@
-# python
-# url:http://www.jyeoo.com
-# 向这个网站爬取数据
+# python 
+#### url:http://www.jyeoo.com
+#### 使用BeautifulSoup解析html数据
